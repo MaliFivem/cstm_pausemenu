@@ -1,4 +1,6 @@
-# garfield_pausemenu
-Menu pause totalement personnalisable.
+# Modification du menu pause pour FiveM
+#### Ce script vous permet de modifier les différentes entrées principale du menu pause (Echap/P).
 
 Screenshot : https://prnt.sc/pl47hi
+
+Copyright (C) 2019-2020 Garfield.
